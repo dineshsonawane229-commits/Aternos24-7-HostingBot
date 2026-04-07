@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Dinato419.aternos.me:46118",
-    "port": 46118,
+    "ip": "Dinato.aternos.me",
+    "port": 38995,
     "version": "",
     "try-creative": false
   },
